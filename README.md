@@ -1,12 +1,11 @@
 # ¡Hola! 👋 Soy Xavier Pérez Jiménez
 
-![Programación GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fniixer.com%2Findex.php%2F2020%2F11%2F24%2Fflutter%2F&psig=AOvVaw1W5jT4U2QZY4yygn5T0qUJ&ust=1699370190907000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMD157bVr4IDFQAAAAAdAAAAABAK)
-
 Soy un apasionado desarrollador de software con experiencia en varias tecnologías, incluyendo:
 
 - 🚀 Desarrollo en C#
 - 📦 Desarrollo en Dart y Flutter
 - 🐘 Bases de datos PostgreSQL
+- 🍃 MongoDB
 - 🔥 Firebase
 - 🎮 Unity
 
