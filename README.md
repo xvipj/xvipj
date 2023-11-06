@@ -1,5 +1,8 @@
 # ¡Hola! 👋 Soy Xavier Pérez Jiménez
 
+![mi portada](Portada para Facebook Tecnología Minimalista Negro  (3).png)
+
+
 Soy un apasionado desarrollador de software con experiencia en varias tecnologías, incluyendo:
 
 - 🚀 Desarrollo en C#
