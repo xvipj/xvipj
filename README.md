@@ -8,6 +8,8 @@ Soy un apasionado desarrollador de software con experiencia en varias tecnologí
 - 🍃 MongoDB
 - 🔥 Firebase
 - 🎮 Unity
+- 🐳 Docker
+- 🌲 Git
 
 ## Acerca de mí
 
