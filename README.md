@@ -5,18 +5,17 @@
 
 Soy un apasionado desarrollador de software con experiencia en varias tecnologías, incluyendo:
 
-- 🚀 Desarrollo en C#
-- 📦 Desarrollo en Dart y Flutter
+- 🚀 Django
+- 📦 Sqlite
 - 🐘 Bases de datos PostgreSQL
 - 🍃 MongoDB
-- 🔥 Firebase
-- 🎮 Unity
+- 🐍 python
 - 🐳 Docker
 - 🌲 Git
 
-## Acerca de mí
+Desarrollo Web con Django
+Me dedico al apasionante mundo del desarrollo web, y mi enfoque principal se centra en la creación de aplicaciones web sólidas y eficientes utilizando el poderoso framework Django. Mi experiencia abarca desde la configuración de bases de datos con PostgreSQL y SQLite hasta la implementación de soluciones flexibles con MongoDB. El lenguaje de programación Python es mi aliado constante en la creación de proyectos web dinámicos y escalables.
 
-Soy un profesional dedicado y apasionado por la programación. Mi enfoque principal es el desarrollo de aplicaciones móviles y web, con un amor especial por la creación de soluciones innovadoras y de alto rendimiento.
 
 ## Conéctate conmigo
 
