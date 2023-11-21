@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Xavier Pérez Jiménez
 
-![mi portada](frame.png)
+![mi portada](framee.png)
 
 
 Soy un apasionado desarrollador de software con experiencia en varias tecnologías, incluyendo:
