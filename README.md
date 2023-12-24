@@ -7,7 +7,7 @@ Soy un apasionado desarrollador de software con experiencia en varias tecnologí
 
 - 🚀 Django
 - 📦 Sqlite
-- 🐘 Bases de datos PostgreSQL
+- 🐘 PostgreSQL
 - 🍃 MongoDB
 - 🐍 python
 - 🐳 Docker
