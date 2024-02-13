@@ -3,19 +3,7 @@
 ![mi portada](portada-py.png)
 
 
-Soy un apasionado desarrollador de software con experiencia en varias tecnologías, incluyendo:
-
-- 🚀 Django
-- 📦 Sqlite
-- 🐘 PostgreSQL
-- 🍃 MongoDB
-- 🐍 python
-- 🐳 Docker
-- 🌲 Git
-
-Desarrollo Web con Django
-Me dedico al apasionante mundo del desarrollo web, y mi enfoque principal se centra en la creación de aplicaciones web sólidas y eficientes utilizando el poderoso framework Django. Mi experiencia abarca desde la configuración de bases de datos con PostgreSQL y SQLite hasta la implementación de soluciones flexibles con MongoDB. El lenguaje de programación Python es mi aliado constante en la creación de proyectos web dinámicos y escalables.
-
+¡Hola! Soy un apasionado desarrollador backend con experiencia en una variedad de tecnologías, incluyendo Django, PostgreSQL, MongoDB, Python, Docker y Git. Me dedico al emocionante mundo del desarrollo web, centrándome en la creación de aplicaciones sólidas y eficientes utilizando el poderoso framework Django. Desde la configuración de bases de datos con PostgreSQL hasta la implementación de soluciones flexibles con MongoDB, mi experiencia abarca un amplio espectro. Python es mi aliado constante en la creación de proyectos web dinámicos y escalables. Siempre estoy buscando nuevos desafíos y oportunidades para seguir creciendo en este fascinante campo. 🚀
 
 ## Conéctate conmigo
 
