@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Xavier Pérez Jiménez
 
-![mi portada](portada-py.png)
+![mi portada](portadarp.png)
 
 
 ¡Hola! Soy un apasionado desarrollador backend con una sólida experiencia en una amplia gama de tecnologías de vanguardia. Especializado en el desarrollo web con el poderoso framework Django, he demostrado habilidades excepcionales en la creación de aplicaciones sólidas y eficientes que impulsan el éxito empresarial.
