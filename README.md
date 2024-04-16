@@ -13,12 +13,9 @@ Estoy buscando activamente nuevas oportunidades donde pueda aplicar mi experienc
 
 ```
 # Tecnologías de Front-end
-Tecnologías de Front-end   Nivel de Dominio 
+Herramientas           |    Nivel de Dominio 
 HTML                        ████████████ (99%) 
 Markdown                    ████████████ (80%) 
-
-# Tecnologías de Back-end
-Tecnologías de Back-end    Nivel de Dominio 
 Python                      ██████████████ (96%) 
 Django                      ██████████████ (95%) 
 Django REST framework       ██████████████ (91%) 
@@ -26,14 +23,8 @@ Rust                        ██████████ (50%)
 PostgreSQL                  ██████████ (50%) 
 MongoDB                     ██████████ (50%) 
 Redis                       ████████████ (60%) 
-
-# Herramientas de Desarrollo
-Herramientas de Desarrollo Nivel de Dominio 
 Docker                      ██████████████ (100%) 
 Git                         ████████████ (60%) 
-
-# Otras Habilidades
-Otras Habilidades           Nivel de Dominio 
 Inglés                      ████████ (30%)  
 Emprendimiento              ██████████████ (100%) 
 Desarrollo de Microservicios ██████████████ (100%) 
