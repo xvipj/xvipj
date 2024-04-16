@@ -13,42 +13,35 @@ Estoy buscando activamente nuevas oportunidades donde pueda aplicar mi experienc
 
 ```bash
 # Tecnologías de Front-end
-echo "| Tecnologías de Front-end | Nivel de Dominio |"
-echo "|--------------------------|------------------|"
-echo "| HTML                     | ████████████ (99%) |"
-echo "| Markdown                 | ████████████ (80%) |"
-echo ""
+"Tecnologías de Front-end   Nivel de Dominio "
+"HTML                        ████████████ (99%) "
+"Markdown                    ████████████ (80%) "
 
 # Tecnologías de Back-end
-echo "| Tecnologías de Back-end  | Nivel de Dominio |"
-echo "|--------------------------|------------------|"
-echo "| Python                   | ██████████████ (96%) |"
-echo "| Django                   | ██████████████ (95%) |"
-echo "| Django REST framework    | ██████████████ (91%) |"
-echo "| Rust                     | ██████████ (50%) |"
-echo "| PostgreSQL               | ██████████ (50%) |"
-echo "| MongoDB                  | ██████████ (50%) |"
-echo "| Redis                    | ████████████ (60%) |"
-echo ""
+"Tecnologías de Back-end    Nivel de Dominio "
+"Python                      ██████████████ (96%) "
+"Django                      ██████████████ (95%) "
+"Django REST framework       ██████████████ (91%) "
+"Rust                        ██████████ (50%) "
+"PostgreSQL                  ██████████ (50%) "
+"MongoDB                     ██████████ (50%) "
+"Redis                       ████████████ (60%) "
 
 # Herramientas de Desarrollo
-echo "| Herramientas de Desarrollo | Nivel de Dominio |"
-echo "|----------------------------|------------------|"
-echo "| Docker                     | ██████████████ (100%) |"
-echo "| Git                        | ████████████ (60%) |"
-echo ""
+"Herramientas de Desarrollo Nivel de Dominio "
+"Docker                      ██████████████ (100%) "
+"Git                         ████████████ (60%) "
 
 # Otras Habilidades
-echo "| Otras Habilidades              | Nivel de Dominio |"
-echo "|--------------------------------|------------------|"
-echo "| Inglés                         | ████████ (30%)  |"
-echo "| Emprendimiento                 | ██████████████ (100%) |"
-echo "| Desarrollo de Microservicios  | ██████████████ (100%) |"
-echo "| Arquitectura de Software      | ██████████████ (99.5%) |"
-echo "| Tecnología de la Información (TI) | ██████████████ (99.4%) |"
-echo "| Comunicación                   | ██████████████ (100%) |"
-echo "| Trabajo en Equipo              | ██████████████ (100%) |"
-echo "| Resolución de Problemas        | ██████████████ (100%) |"
+"Otras Habilidades           Nivel de Dominio "
+"Inglés                      ████████ (30%)  "
+"Emprendimiento              ██████████████ (100%) "
+"Desarrollo de Microservicios ██████████████ (100%) "
+"Arquitectura de Software   ██████████████ (100%) "
+"Tecnología de la Información (TI) ██████████████ (100%) "
+"Comunicación                ██████████████ (100%) "
+"Trabajo en Equipo           ██████████████ (100%) "
+"Resolución de Problemas     ██████████████ (100%) "
 ```
 
 ## Conéctate conmigo
