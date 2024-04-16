@@ -12,7 +12,6 @@ Además, estoy completamente familiarizado con tecnologías modernas como Docker
 Estoy buscando activamente nuevas oportunidades donde pueda aplicar mi experiencia y contribuir al crecimiento y éxito de una empresa innovadora. Si buscas a un desarrollador backend comprometido con la excelencia y la innovación, ¡no dudes en contactarme! Estoy listo para impulsar tu proyecto hacia nuevos horizontes. ¡Vamos a construir algo increíble juntos! 🚀
 
 ```
-# Tecnologías de Front-end
 Herramientas           |    Nivel de Dominio 
 HTML                        ████████████ (99%) 
 Markdown                    ████████████ (80%) 
