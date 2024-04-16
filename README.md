@@ -31,16 +31,16 @@ Estoy buscando activamente nuevas oportunidades donde pueda aplicar mi experienc
 | Docker                     | ██████████████ (100%) |
 | Git                        | ████████████ (60%) |
 
-| Otras Habilidades              | Nivel de Dominio |
-|--------------------------------|------------------|
-| Inglés                         |                  |
-| Emprendimiento                 |                  |
-| Desarrollo de Microservicios  |                  |
-| Arquitectura de Software      |                  |
-| Tecnología de la Información (TI) |              |
-| Comunicación                   |                  |
-| Trabajo en Equipo              |                  |
-| Resolución de Problemas        |                  |
+| Habilidades                   | Nivel de Dominio |
+|-------------------------------|------------------|
+| Inglés                        | Básico           |
+| Emprendimiento                | Excelente        |
+| Desarrollo de Microservicios | Excelente        |
+| Arquitectura de Software     | Excelente        |
+| Tecnología de la Información (TI) | Excelente  |
+| Comunicación                  | Excelente        |
+| Trabajo en Equipo             | Excelente        |
+| Resolución de Problemas       | Excelente        |
 
 
 ## Conéctate conmigo
