@@ -11,29 +11,6 @@ Además, estoy completamente familiarizado con tecnologías modernas como Docker
 
 Estoy buscando activamente nuevas oportunidades donde pueda aplicar mi experiencia y contribuir al crecimiento y éxito de una empresa innovadora. Si buscas a un desarrollador backend comprometido con la excelencia y la innovación, ¡no dudes en contactarme! Estoy listo para impulsar tu proyecto hacia nuevos horizontes. ¡Vamos a construir algo increíble juntos! 🚀
 
-```sql
-Conocimientos y aptitudes  |    Nivel de Dominio 
-HTML                        =========> (99%)
-Markdown                    ========> (80%)
-Python                      ==========> (96%)
-Django                      ==========> (95%)
-Django REST framework       ==========> (91%)
-Rust                        ========> (50%)
-PostgreSQL                  ========> (50%)
-MongoDB                     ========> (50%)
-Redis                       =========> (60%)
-Docker                      ==========> (100%)
-Git                         =========> (60%)
-Inglés                      ========> (30%)
-Emprendimiento              ==========> (100%)
-Desarrollo de Microservicios ==========> (100%)
-Arquitectura de Software   ==========> (100%)
-Tecnología de la Información (TI) ==========> (100%)
-Comunicación                ==========> (100%)
-Trabajo en Equipo           ==========> (100%)
-Resolución de Problemas     ==========> (100%)
-```
-
 ## Conéctate conmigo
 
 ¡Puedes encontrarme en LinkedIn! [Xavier Pérez Jiménez](https://www.linkedin.com/in/xavierperezjimenez/)
